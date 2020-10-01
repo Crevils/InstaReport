@@ -20,5 +20,5 @@ python ReportBot.pyc
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
+<a href="https://www.youtube.com/watch?v=7Z2dhGSUrT4"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
 
