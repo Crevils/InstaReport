@@ -12,6 +12,8 @@ cd InstaReport
 python ReportBot.pyc
 ```
 
+### Works On Android(Termux), Windows And Linux
+
 # Features 
 1. Reports Targeted Instagram Profile
 2. Reports Targeted Video On Instagram
