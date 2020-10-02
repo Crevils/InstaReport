@@ -17,7 +17,7 @@ cd InstaReport
 python ReportBot.pyc
 ```
 ### Works on Windows And Linux. 
-#### Termux Version is in developement, as android do not have required dependacies pre-built. 
+##### !Termux Version is in developement, as android do not have required dependacies pre-built. 
 
 # Features 
 1. Reports Targeted Instagram Profile
