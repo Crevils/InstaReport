@@ -1,5 +1,11 @@
 # InstaReport
-This is a script which reports targeted instagram accounts. Until it gets banned
+This is a script which reports targeted instagram accounts. 
+
+*NOTE:
+- Instagram limits the reports per unit time, tool will auto stop reporting after reached limit. 
+- Shows "Reported Succesfully" after Each Request.
+- You can Report target again after some time (after 2-3 min). 
+- Use IP of same region for high effecivity. 
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
