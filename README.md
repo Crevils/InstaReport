@@ -11,7 +11,7 @@ This is a script which reports targeted instagram profile accounts and videos.
 ## Usage 
 ```bash
 pip install python
-sudo apt install git # for ubantu, for windows install git software.
+sudo apt install git #for ubantu, for windows install git software.
 git clone https://github.com/Crevils/InstaReport
 pip install -r requirements.txt
 cd InstaReport
