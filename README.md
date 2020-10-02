@@ -1,5 +1,5 @@
 # InstaReport
-This is a script which reports targeted instagram accounts. 
+This is a script which reports targeted instagram profile accounts and videos. 
 
 *NOTE:
 - Instagram limits the reports per unit time, tool will auto stop reporting after reached limit. 
@@ -11,7 +11,8 @@ This is a script which reports targeted instagram accounts.
 ## Usage 
 ```bash
 pip install python
-pip install https://github.com/Crevils/InstaReport
+sudo apt install git(ubantu), for windows install git software.
+git clone https://github.com/Crevils/InstaReport
 pip install -r requirements.txt
 cd InstaReport
 python ReportBot.pyc
