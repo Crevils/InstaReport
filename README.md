@@ -16,6 +16,7 @@ pip install -r requirements.txt
 cd InstaReport
 python ReportBot.pyc
 ```
+[Tool Works Best on Windows and linux. does not support Termux, as android termux do not have visual C++ runtime support.]
 
 ### Works On Android(Termux), Windows And Linux
 
