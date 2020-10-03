@@ -4,9 +4,11 @@ This is a script which reports targeted instagram accounts. Until it gets banned
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Usage 
+[Install Python](https://www.python.org/downloads/)
+If You Don't want to install git then download this tool zip manually
 ```bash
 pip install python
-pip install https://github.com/Crevils/InstaReport
+git clone https://github.com/Crevils/InstaReport [Download GIT](https://git-scm.com/downloads)
 pip install -r requirements.txt
 cd InstaReport
 python ReportBot.pyc
