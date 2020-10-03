@@ -7,8 +7,8 @@ This is a script which reports targeted instagram accounts. Until it gets banned
 This tool is strongly for educational purpose. And don't waste your time on big accounts.
 
 ## Requirements
-
 [Python3 Or Above](https://www.python.org/downloads/)
+
 [Download GIT](https://git-scm.com/downloads)
 
 ## Usage 
