@@ -12,7 +12,7 @@ cd InstaReport
 python ReportBot.pyc
 ```
 
-### Works On Android(Termux), Windows And Linux
+### Tested On Windows | Will not work on android (termux) | Not sure about linux
 
 # Features 
 1. Reports Targeted Instagram Profile
@@ -23,4 +23,4 @@ python ReportBot.pyc
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://www.youtube.com/watch?v=7Z2dhGSUrT4"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
-
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Reprt-Bugs%20Channel-red.svg?logo=Bugs"></a>
