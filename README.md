@@ -8,7 +8,7 @@ This tool is strongly for educational purpose. And don't waste your time on big 
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
-
+No need to install git in linux or termux
 [Download GIT](https://git-scm.com/downloads)
 
 ## Usage 
