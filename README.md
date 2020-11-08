@@ -19,16 +19,34 @@ No need to install git in linux or termux
 
 ## Usage 
 
-If You Don't want to install git then download this tool zip manually
+### TERMUX 
 ```bash
+pkg update && pkg upgrade
 pip install python
 git clone https://github.com/Crevils/InstaReport 
-pip install -r requirements.txt
 cd InstaReport
+pip install -r requirements.txt
 python ReportBot.pyc
 ```
 
-### Tested On Windows | Will not work on android (termux) | Not sure about linux
+### WINDOWS
+[Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
+```bash
+git clone https://github.com/Crevils/InstaReport 
+cd InstaReport
+pip install -r requirements.txt
+python ReportBot.pyc
+```
+- If You Don't want to install git then download this tool zip manually
+
+#### Alternate method for windows
+Download This code and [Download python](https://www.python.org/downloads/)
+```bash
+cd InstaReport
+pip install -r requirements.txt
+python ReportBot.pyc
+```
+
 
 # Features 
 1. Reports Targeted Instagram Profile
