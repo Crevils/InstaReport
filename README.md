@@ -14,7 +14,9 @@ This is a script which reports targeted instagram accounts.
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
+
 No need to install git in linux or termux
+
 [Download GIT](https://git-scm.com/downloads)
 
 ## Usage 
