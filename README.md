@@ -40,7 +40,7 @@ python ReportBot.pyc
 - If You Don't want to install git then download this tool zip manually
 
 #### Alternate method for windows
-Download This code and [Download python](https://www.python.org/downloads/)
+Download This [code](https://github.com/Crevils/InstaReport/archive/master.zip) and [Download python](https://www.python.org/downloads/)
 ```bash
 cd InstaReport
 pip install -r requirements.txt
