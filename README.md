@@ -58,7 +58,6 @@ python ReportBot.py
 # Features 
 1. Reports Targeted Instagram Profile
 2. Reports Targeted Video On Instagram
-3. Use Multi threading (Reports Very Fast)
 
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
