@@ -5,13 +5,17 @@ Version : 1.2
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### NOTE
-This tool is strongly for educational purpose. And don't waste your time on big accounts.
 This is a script which reports targeted instagram accounts. 
 
+- If the user really breaks the instagram guideline then their is more chances to get banned. 
 - Instagram limits the reports per unit time, tool will auto stop reporting after reached limit at almost 40 reports. 
 - Shows "Reported Succesfully" after Each Request.
 - You can Report target again after some time (after 2-3 min). 
 - Use IP of same region for high effecivity. 
+- If you enter invalid username it will still send report request. 
+- If you getting error on using proxies then don't. 
+
+
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -26,10 +30,10 @@ No need to install git in linux or termux
 ```bash
 pkg update && pkg upgrade
 pip install python
-git clone https://github.com/Crevils/InstaReport 
+git clone https://github.com/Crevils/InstaReport
 cd InstaReport
 pip install -r requirements.txt
-python ReportBot.pyc
+python ReportBot.py
 ```
 
 ### WINDOWS
@@ -38,7 +42,7 @@ python ReportBot.pyc
 git clone https://github.com/Crevils/InstaReport 
 cd InstaReport
 pip install -r requirements.txt
-python ReportBot.pyc
+python ReportBot.py
 ```
 - If You Don't want to install git then download this tool zip manually
 
@@ -47,7 +51,7 @@ Download This [code](https://github.com/Crevils/InstaReport/archive/master.zip) 
 ```bash
 cd InstaReport
 pip install -r requirements.txt
-python ReportBot.pyc
+python ReportBot.py
 ```
 
 
