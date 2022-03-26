@@ -1,19 +1,20 @@
 # InstaReport
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
-Version : 1.2
+Version : 2.0.1
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-### NOTE
-This is a script which reports targeted instagram accounts. 
+### Features
+This is a script which reports targeted instagram account or an instagram video. 
 
-- If the user really breaks the instagram guideline then their is more chances to get banned. 
-- Instagram limits the reports per unit time, tool will auto stop reporting after reached limit at almost 40 reports. 
-- Shows "Reported Succesfully" after Each Request.
-- You can Report target again after some time (after 2-3 min). 
-- Use IP of same region for high effecivity. 
-- If you enter invalid username it will still send report request. 
-- If you getting error on using proxies then don't. 
+```
+[+] Powerful ban tool 
+[+] Uses proxy + username
+[+] Mass report on instagram account
+[+] Mass report on instagram video
+[+] Gatthering information about instagram account (Comming soon)
+
+```
 
 
 
@@ -26,38 +27,40 @@ No need to install git in linux or termux
 
 ## Usage 
 
-### TERMUX 
-```bash
-pkg update && pkg upgrade
-pip install python
-git clone https://github.com/Crevils/InstaReport
-cd InstaReport
-pip install -r requirements.txt
-python ReportBot.py
-```
 
-### WINDOWS
+## INSTALLATION [Termux]
+
+* `apt update`
+* `apt upgrade`
+* `pkg install python`
+* `pkg install python3`
+* `pkg install git`
+* `git clone https://github.com/Crevils/InstaReport`
+* `cd instareport`
+* `pip install -r requirements.txt`
+* `chmod +x *`
+* `bash setup.sh` OR `python ReportBot.py`
+
+### INSTALLATION [Windows]
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
-```bash
-git clone https://github.com/Crevils/InstaReport 
-cd InstaReport
-pip install -r requirements.txt
-python ReportBot.py
-```
-- If You Don't want to install git then download this tool zip manually
 
-#### Alternate method for windows
-Download This [code](https://github.com/Crevils/InstaReport/archive/master.zip) and [Download python](https://www.python.org/downloads/)
-```bash
-cd InstaReport
-pip install -r requirements.txt
-python ReportBot.py
-```
+* `git clone https://github.com/Crevils/InstaReport`
+* `cd instareport`
+* `pip install -r requirements.txt`
+* `python ReportBot.py`
+* 
+[ - ] If You Don't want to install git then download this tool zip manually
 
+## INSTALLATION [Kali Linux]
 
-# Features 
-1. Reports Targeted Instagram Profile
-2. Reports Targeted Video On Instagram
+* `sudo apt install python`
+* `sudo apt install python3`
+* `sudo apt install git`
+* `git clone https://github.com/Crevils/InstaReport`
+* `cd instareport`
+* `pip3 install -r requirements.txt`
+* `chmod +x *`
+* `sudo bash setup.sh`
 
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
