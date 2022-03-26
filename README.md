@@ -25,10 +25,10 @@ No need to install git in linux or termux
 
 [Download GIT](https://git-scm.com/downloads)
 
-## Usage 
+# Usage 
 
 
-## INSTALLATION [Termux]
+### INSTALLATION [Termux]
 
 * `apt update`
 * `apt upgrade`
@@ -51,7 +51,7 @@ No need to install git in linux or termux
 * 
 [ - ] If You Don't want to install git then download this tool zip manually
 
-## INSTALLATION [Kali Linux]
+### INSTALLATION [Kali Linux]
 
 * `sudo apt install python`
 * `sudo apt install python3`
@@ -62,6 +62,8 @@ No need to install git in linux or termux
 * `chmod +x *`
 * `sudo bash setup.sh`
 
+## Warning:
+#### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
