@@ -7,6 +7,8 @@ import re
 import random
 from requests import get
 from sys import exit
+import time
+import os
         
 def print_success(message, *argv):
     print(Fore.GREEN + "[ OK ] " + Style.RESET_ALL + Style.BRIGHT, end="")
@@ -29,13 +31,8 @@ def print_status(message, *argv):
         print(arg, end=" ")
     print("")
 
-def ask_question(message, *argv):
-    message = Fore.BLUE + "[ ? ] " + Style.RESET_ALL + Style.BRIGHT + message
-    for arg in argv:
-        message = message + " " + arg
-    print(message, end="")
-    ret = input(": ")
-    return ret
+def clearConsole():
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 def parse_proxy_file(fpath):
     if (path.exists(fpath) == False):
