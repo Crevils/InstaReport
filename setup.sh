@@ -11,11 +11,6 @@ Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
 clear
-apt-get update
-apt-get upgrade
-apt-get install python
-apt-get install python2
-clear
 echo -e "$Purple Created By \e[1;34m"
        figlet Insta Report | lolcat
 sleep 2.0
