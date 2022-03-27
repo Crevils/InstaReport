@@ -79,5 +79,7 @@ No need to install git in linux or termux
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+#####Watch Video Tutorial : 
 <a href="https://youtu.be/MsHJrjeFsNQ"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
