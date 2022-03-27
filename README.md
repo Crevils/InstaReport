@@ -18,6 +18,10 @@ Works On
 [+] Gatthering information about instagram account (Comming soon)
 
 ```
+#### Buy Premium InstaReport Tool or contact me personally for banning account
+
+
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -67,7 +71,8 @@ No need to install git in linux or termux
 <a href="https://github.com/Crevils/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
 
 # DONATION
-`Help us to keep this project alive and maintained by donating. Thanks`
+```Help us to keep this project alive and maintained by donating. Thanks```
+
 <a href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
 
 ## Warning:
