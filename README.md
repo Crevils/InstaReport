@@ -6,7 +6,10 @@ Version : 2.0.1
 
 ### Features
 This is a script which reports targeted instagram account or an instagram video. 
-
+Works On
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit"></a>
+KALI LINUX
 ```
 [+] Powerful ban tool 
 [+] Uses proxy + username
@@ -15,8 +18,6 @@ This is a script which reports targeted instagram account or an instagram video.
 [+] Gatthering information about instagram account (Comming soon)
 
 ```
-
-
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -62,12 +63,16 @@ No need to install git in linux or termux
 * `chmod +x *`
 * `sudo bash setup.sh`
 
+## Stats
+<a href="https://github.com/Crevils/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"></a>
+
+# DONATION
+`Help us to keep this project alive and maintained by donating. Thanks`
+<a href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
+
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
-<a href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
-
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.youtube.com/watch?v=7Z2dhGSUrT4"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
