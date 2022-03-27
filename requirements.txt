@@ -2,3 +2,4 @@ colorama
 requests
 asyncio
 firebase-admin
+dotenv
