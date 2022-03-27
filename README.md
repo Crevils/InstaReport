@@ -65,15 +65,7 @@ No need to install git in linux or termux
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
-
-    <div>
-      <a class="donate-with-crypto"
-        href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c">
-        Donate with Crypto
-      </a>
-      <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-      </script>
-    </div>
+<a href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c">Donate with Crypto</a>
 
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
