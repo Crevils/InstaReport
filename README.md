@@ -18,7 +18,7 @@ Works On
 [+] Gatthering information about instagram account (Comming soon)
 
 ```
-#### Buy Premium InstaReport Tool or contact me personally for banning account
+# ** Buy Premium InstaReport Tool or contact me personally for banning account **
 
 
 <a href="https://t.me/crevilbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
