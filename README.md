@@ -77,7 +77,7 @@ No need to install git in linux or termux
 </p>
 
 
-> ## **[Buy Premium](https:t.me/crevilBot) InstaReport Tool or [contact](https://t.me/crevilbot) me personally for banning account**
+## **[Buy Premium](https:t.me/crevilBot) InstaReport Tool or [contact](https://t.me/crevilbot) me personally for banning account**
 
 
 # DONATION
