@@ -70,6 +70,12 @@ No need to install git in linux or termux
 ## Stats
 <a href="https://github.com/Crevils/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
 
+<p align="left">
+  <a href="">
+    <img src="/assets/instareport.gif" width="500px" style="display: inline-block;">
+  </a>
+</p>
+
 # DONATION
 ```Help us to keep this project alive and maintained by donating. Thanks```
 
