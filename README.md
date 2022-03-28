@@ -18,7 +18,7 @@ Works On
 [+] Gatthering information about instagram account (Comming soon)
 
 ```
-> # **[Buy Premium](https:t.me/crevilBot) InstaReport Tool or [contact](https://t.me/crevilbot) me personally for banning account**
+
 
 
 <a href="https://t.me/crevilbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -75,6 +75,10 @@ No need to install git in linux or termux
     <img src="/assets/instareport.gif" width="500px" style="display: inline-block;">
   </a>
 </p>
+
+
+> ## **[Buy Premium](https:t.me/crevilBot) InstaReport Tool or [contact](https://t.me/crevilbot) me personally for banning account**
+
 
 # DONATION
 ```Help us to keep this project alive and maintained by donating. Thanks```
