@@ -33,7 +33,7 @@ No need to install git in linux or termux
 # Usage 
 
 
-### INSTALLATION [Termux]
+### INSTALLATION [Termux] (Not working for android right now) 
 
 * `apt update`
 * `apt upgrade`
