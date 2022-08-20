@@ -48,7 +48,7 @@ echo " "
    if [ $ch -eq 1 ];then
         cd $HOME
         cd InstaReport
-        python ReportBot.py
+        python3 ReportBot.py
 
         exit
     elif [ $ch -eq 2 ];then
