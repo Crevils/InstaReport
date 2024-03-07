@@ -75,8 +75,10 @@ No need to install git in linux or termux
 </p>
 
 # DONATION
-```Help us to keep this project alive and maintained by donating. Thanks```
+```
+Help us to keep this project alive and maintained by donating. Thanks
 USDT (trc20) - TPUTKrCwXvGeoQnMjC9SLMYDJfDjPi8cg6
+```
 
 ## Disclaimer:
 #### This hacking tool is intended for educational and research purposes only. Misuse of this tool for unauthorized access to computer systems or networks is strictly prohibited and may result in legal consequences. The author of this tool takes no responsibility for any damage or harm caused by its usage. It is the user's responsibility to ensure compliance with all applicable laws and regulations while using this tool. By downloading, installing, or using this tool, you agree to use it responsibly and lawfully.
@@ -84,4 +86,4 @@ USDT (trc20) - TPUTKrCwXvGeoQnMjC9SLMYDJfDjPi8cg6
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-#####Watch Video Tutorial : It's deleted by youtube, Will upload it soon till than subscribe my channel <a href="www.youtube.com/crevil">@Crevil</a> to be updated and learn more about these stuffs : D
+#####Watch Video Tutorial : It's deleted by youtube, Will upload it soon till than subscribe my channel <a href="https://www.youtube.com/crevil">@Crevil</a> to be updated and learn more about these stuffs : D
