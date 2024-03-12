@@ -1,1 +1,4 @@
-/test.py
+__pycache__/
+
+test.py
+acc.txt
