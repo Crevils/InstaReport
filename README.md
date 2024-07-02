@@ -1,3 +1,5 @@
+### It's not working anymore but feel to contribute, I am not maintaining this code anymore!
+
 # InstaReport Version : 2.1.2
 InstaReport is a script which takes bulk instagram acounts and using web automation reports victim's acount in loop.
 
