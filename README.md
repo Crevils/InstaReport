@@ -88,4 +88,4 @@ USDT (trc20) - TPUTKrCwXvGeoQnMjC9SLMYDJfDjPi8cg6
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-#####Watch Video Tutorial : It's deleted by youtube, Will upload it soon till than subscribe my channel <a href="https://www.youtube.com/crevil">@Crevil</a> to be updated and learn more about these stuffs : D
+##Watch Video Tutorial : It's deleted by youtube, Will upload it soon till than subscribe my channel <a href="https://www.youtube.com/@kislayofficial">@Kislay</a> to be updated and learn more about these stuffs : D
