@@ -20,7 +20,7 @@ Works On
 ```
 
 
-<a href="https://t.me/crevilbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -81,7 +81,7 @@ USDT (trc20) - TPUTKrCwXvGeoQnMjC9SLMYDJfDjPi8cg6
 ```
 
 ## Disclaimer:
-#### This hacking tool is intended for educational and research purposes only. Misuse of this tool for unauthorized access to computer systems or networks is strictly prohibited and may result in legal consequences. The author of this tool takes no responsibility for any damage or harm caused by its usage. It is the user's responsibility to ensure compliance with all applicable laws and regulations while using this tool. By downloading, installing, or using this tool, you agree to use it responsibly and lawfully.
+#### This tool is intended for educational and research purposes only. Misuse of this tool for unauthorized access to computer systems or networks is strictly prohibited and may result in legal consequences. The author of this tool takes no responsibility for any damage or harm caused by its usage. It is the user's responsibility to ensure compliance with all applicable laws and regulations while using this tool. By downloading, installing, or using this tool, you agree to use it responsibly and lawfully.
 
 
 <a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
